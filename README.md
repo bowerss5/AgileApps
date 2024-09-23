@@ -1,14 +1,7 @@
 # Agile Apps
 
-### By 2001 Development
+For Archival Purposes. This project was created for CSE 201 at Miami University.
 
-Members: 
-- Sam Bowers
-- Eric Ekwenibe
-- Luke Hostettler
-- David Staub
-
-##### Project for CSE 201
 ---
 
 Project uses React + Webpack + Django + Django REST Framework + SQLite.
